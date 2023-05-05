@@ -13,5 +13,5 @@ You can clone this repository to your own machine.  Load your browser page using
  In the near future I plan to create a few more PacMan images and have them move around the screen simultaneously.
  
 **License Info:**
-<href="https://github.com/ReginaGashi/PacMan/blob/main/LICENSE">
+<"https://github.com/ReginaGashi/PacMan/blob/main/LICENSE">
 
